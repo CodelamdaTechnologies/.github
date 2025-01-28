@@ -1,5 +1,4 @@
 <div align="center">
-
 # CODELAMDA TECHNOLOGIES
 *Where AI Meets Enterprise Innovation*
 
