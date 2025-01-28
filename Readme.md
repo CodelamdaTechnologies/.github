@@ -1,6 +1,4 @@
 <div align="center">
-  
-![CodeLamda Banner](https://api.githubtrends.io/user/svg/CodeLamda/repos?time_range=one_year&group=other&theme=ferns)
 
 # CODELAMDA TECHNOLOGIES
 *Where AI Meets Enterprise Innovation*
