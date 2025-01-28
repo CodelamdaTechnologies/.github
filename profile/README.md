@@ -1,5 +1,6 @@
 <div align="center">
-# CODELAMDA TECHNOLOGIES
+
+  # CODELAMDA TECHNOLOGIES
 *Where AI Meets Enterprise Innovation*
 
 [![AWS Advanced](https://img.shields.io/badge/AWS-Advanced_Partner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.codelamda.com)
